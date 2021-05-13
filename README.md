@@ -2,7 +2,7 @@
 Problems of 30 days Challenge at TechGig 
 30 Day Coding Challenge at Techgig
 Following is the list of challenges, detailed description can be found in Challenges Description
-Day 1
+Day 1 - Hello techGig
 Day 2 - Exploring Data Types
 Day 3 - Play with Operators
 Day 4 - Decide Yourself With Conditional Statement
